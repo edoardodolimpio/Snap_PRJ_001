@@ -1,2 +1,1 @@
-# Snap_PRJ_001
- 
+# camera_kit_demo
